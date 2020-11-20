@@ -3,7 +3,7 @@ The following is a summary of the feedback in the [Call for Community Feedback: 
 * [Proposal](https://www.ietf.org/media/documents/Retiring_IETF_FTP_Service.pdf)
 * [FTP Usage Data](https://docs.google.com/document/d/1JAXspeaMWFl8ML3hSezFSM0VsJsHI4uyDlQ2dHip8jo/edit#)
 
-This summary aggregates common questions and concerns, and associated responses with references.  It is not a verbatim transcript of the discussions.  It does not synthesize side discussions or those not directly related to the question of retiring the FTP service.
+This summary aggregates common questions and concerns, and associated responses with references.  It is not a verbatim transcript of the discussions.  It does not synthesize discussions not directly related to the question of retiring the FTP service.
 
 As this thread consistented of many messages and interleaved ideas, if your position has been misrepresented, please send corrections to the thread on ietf@ietf.org or privately to Roman Danyliw (IESG tool representative).
 
