@@ -17,11 +17,11 @@ The following are pointers to explicitly stated positions (and rationales) on th
 
 ## Questions
 
-### What is the "operational complexity" of running FTP? How much does it cost? [[5]](https://mailarchive.ietf.org/arch/msg/ietf/62aSVFrAErl1ofSBhs6R5PND5mg/) [[6]](https://mailarchive.ietf.org/arch/msg/ietf/GY9hreNv2u-2sf-SuZK0fay0GI8/) [[7]](https://mailarchive.ietf.org/arch/msg/ietf/QryR4cQbSCooGL4TDMUp86bUcIM/) [[19]](https://mailarchive.ietf.org/arch/msg/ietf/XFJOyi9a8KsrF4vmBAghb0Zo3mo/) [[27]](https://mailarchive.ietf.org/arch/msg/ietf/KlM5s0qVWhN9vTdcIYj28g9r99A/)
+### What is the "operational complexity" of running FTP? How much does it cost?  [[5]](https://mailarchive.ietf.org/arch/msg/ietf/62aSVFrAErl1ofSBhs6R5PND5mg/) [[6]](https://mailarchive.ietf.org/arch/msg/ietf/GY9hreNv2u-2sf-SuZK0fay0GI8/) [[7]](https://mailarchive.ietf.org/arch/msg/ietf/QryR4cQbSCooGL4TDMUp86bUcIM/) [[19]](https://mailarchive.ietf.org/arch/msg/ietf/XFJOyi9a8KsrF4vmBAghb0Zo3mo/) [[27]](https://mailarchive.ietf.org/arch/msg/ietf/KlM5s0qVWhN9vTdcIYj28g9r99A/)
 * Running each additional service takes operational effort [[10]](https://mailarchive.ietf.org/arch/msg/ietf/JvPITMGo_Go0ijS-LQyk6MmIEbc/).  In particular FTP requires a number of back-end scripts to make sure files are exported into the right directory [[25]](https://mailarchive.ietf.org/arch/msg/ietf/py_9b486x8x2io6d5dAb3FAgNng/).
 * Running services that are not use expose an unneeded attack surface [[49]](https://mailarchive.ietf.org/arch/msg/ietf/Sos9vi8ZQ37PLA8M1VDKqFPZuPE/) [[62]](https://mailarchive.ietf.org/arch/msg/ietf/y2EXJcnpvAp8dJ9ryYXDgUCOQtI/) [[65]](https://mailarchive.ietf.org/arch/msg/ietf/Gfv2NptSV6XBaOJTyTvixcl6dNc/)
 
-### How small is "small" referenced in the [[retirement proposal]](https://www.ietf.org/media/documents/Retiring_IETF_FTP_Service.pdf)
+### How small is "small" referenced in the [[retirement proposal]](https://www.ietf.org/media/documents/Retiring_IETF_FTP_Service.pdf) ?
 * Per [[12 Days in the Life of the IETF FTP Service]](https://docs.google.com/document/d/1JAXspeaMWFl8ML3hSezFSM0VsJsHI4uyDlQ2dHip8jo/edit#heading=h.h29kmb4dn5ul), 140 unique IPs that are <0.02% of the IP address count on one of the HTTPS services; or <0.2% requests relative to one of the HTTPS services.
 * [[28]](https://mailarchive.ietf.org/arch/msg/ietf/_slYpA7EmYg839kEkg_jRYcoyhc/) provides a narrative of this data.
 
@@ -34,7 +34,7 @@ The following are pointers to explicitly stated positions (and rationales) on th
 ### Traffic volumes are not a good indicator of the value of a service [[29]](https://mailarchive.ietf.org/arch/msg/ietf/mKdnC6vy-E87aj3DbRAMpmsjrQA/) [[32]](https://mailarchive.ietf.org/arch/msg/ietf/kWfCMrUPmtGaRbwJWr56_aMXtIY/)
 
 ### Cost exists to migrating existing scripts [[5]](https://mailarchive.ietf.org/arch/msg/ietf/62aSVFrAErl1ofSBhs6R5PND5mg/) [[32]](https://mailarchive.ietf.org/arch/msg/ietf/kWfCMrUPmtGaRbwJWr56_aMXtIY/)
-* Roman Danyliw and volunteers at Carnegie Mellon University have offered to help anyone with FTP script conversion [28](https://mailarchive.ietf.org/arch/msg/ietf/_slYpA7EmYg839kEkg_jRYcoyhc/) [128](https://mailarchive.ietf.org/arch/msg/ietf/bkyIrK5NAdlWxFfpnmhK83wpy0M/)
+* Roman Danyliw and volunteers at Carnegie Mellon University have offered to help anyone with FTP script conversion [[28]](https://mailarchive.ietf.org/arch/msg/ietf/_slYpA7EmYg839kEkg_jRYcoyhc/) [[128]](https://mailarchive.ietf.org/arch/msg/ietf/bkyIrK5NAdlWxFfpnmhK83wpy0M/)
 
 ### Calls for community feedback have a cost to the community as they need a response [[8]](https://mailarchive.ietf.org/arch/msg/ietf/7ImbzRpyhUmTfgcqb-hya8xU7GU/) [[11]](https://mailarchive.ietf.org/arch/msg/ietf/Y-f3Vz8icj4XPbXsz_nSLPvHm8c/)
 * The IESG feels that deprecating a service requires community consultion and will err on the side of asking rather than acting unilaterally [14](https://mailarchive.ietf.org/arch/msg/ietf/DipA84LDtF4e0SLjcyhJbOFzuts/)
@@ -50,7 +50,7 @@ The following are pointers to explicitly stated positions (and rationales) on th
 [[81]](https://mailarchive.ietf.org/arch/msg/ietf/dcacxBHXCecqP_OHE5-DivUoIZw/)
 * Rsync provides unencrypted access [[92]](https://mailarchive.ietf.org/arch/msg/ietf/maUHi4gfaPAH_TfsU6XbqdYYM5Y/) [[122]](https://mailarchive.ietf.org/arch/msg/ietf/b8BfvrcpLmvvjkhJ1MW8DUEzmQ8/)
 
-#### Not all clients can access encrypted content [[19]](https://mailarchive.ietf.org/arch/msg/ietf/XFJOyi9a8KsrF4vmBAghb0Zo3mo/) [[72]](https://mailarchive.ietf.org/arch/msg/ietf/a0U1ofyDlbxS72MTmDGNY2YBpiI/ [[125]](https://mailarchive.ietf.org/arch/msg/ietf/Da4mZ1cC0pQ8IelsdCFjCBLXyO4/) 
+#### Not all clients can access encrypted content [[19]](https://mailarchive.ietf.org/arch/msg/ietf/XFJOyi9a8KsrF4vmBAghb0Zo3mo/) [[72]](https://mailarchive.ietf.org/arch/msg/ietf/a0U1ofyDlbxS72MTmDGNY2YBpiI/) [[125]](https://mailarchive.ietf.org/arch/msg/ietf/Da4mZ1cC0pQ8IelsdCFjCBLXyO4/) 
 * The usage data does not suggest that the current FTP are not in disavantaged enviroments [25](https://mailarchive.ietf.org/arch/msg/ietf/py_9b486x8x2io6d5dAb3FAgNng/) [[122]](https://mailarchive.ietf.org/arch/msg/ietf/b8BfvrcpLmvvjkhJ1MW8DUEzmQ8/)
 [137](https://mailarchive.ietf.org/arch/msg/ietf/7rWVjpu1h3M3mR4OT5NqdTkSrSU/)
 * Unclear use case driving need for unencrypted access
