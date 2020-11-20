@@ -75,7 +75,7 @@ The following are pointers to explicitly stated positions (and rationales) on th
 * Raw versions of IETF content (without HTML encoding) is availible over HTTPS transport [[54]](https://mailarchive.ietf.org/arch/msg/ietf/oH68nGeB3GH-MnnRlaQvea6rhcg/)
 * Ability to mount FTP as a file share provides stability [[58]](https://mailarchive.ietf.org/arch/msg/ietf/wX5dg3qfP8NQpp1mlm4LIhxbb8U/)
 * HTTP has been backward compatible [[79]](https://mailarchive.ietf.org/arch/msg/ietf/eFuGYTJh66xcKtTKxduGuU9zdD8/)
-* <significant general conversation about HTTP vs. FTP APIs and WebDAV as an interface>
+* ...significant general conversation about HTTP vs. FTP APIs and WebDAV as an interface...
 
 ### Rsync documentation is lacking and not widely supported [[19]](https://mailarchive.ietf.org/arch/msg/ietf/XFJOyi9a8KsrF4vmBAghb0Zo3mo/) [[30]](https://mailarchive.ietf.org/arch/msg/ietf/_he4v6Gcyez0FAyx4wMqASoGrXE/)
 * Guidance on using rysync to make a offline copy of IETF content [exists](https://www.ietf.org/standards/ids/internet-draft-mirror-sites/) [25](https://mailarchive.ietf.org/arch/msg/ietf/py_9b486x8x2io6d5dAb3FAgNng/).
