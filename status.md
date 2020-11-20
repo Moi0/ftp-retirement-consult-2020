@@ -37,7 +37,7 @@ The following are pointers to explicitly stated positions (and rationales) on th
 * Roman Danyliw and volunteers at Carnegie Mellon University have offered to help anyone with FTP script conversion [[28]](https://mailarchive.ietf.org/arch/msg/ietf/_slYpA7EmYg839kEkg_jRYcoyhc/) [[128]](https://mailarchive.ietf.org/arch/msg/ietf/bkyIrK5NAdlWxFfpnmhK83wpy0M/)
 
 ### Calls for community feedback have a cost to the community as they need a response [[8]](https://mailarchive.ietf.org/arch/msg/ietf/7ImbzRpyhUmTfgcqb-hya8xU7GU/) [[11]](https://mailarchive.ietf.org/arch/msg/ietf/Y-f3Vz8icj4XPbXsz_nSLPvHm8c/)
-* The IESG feels that deprecating a service requires community consultion and will err on the side of asking rather than acting unilaterally [14](https://mailarchive.ietf.org/arch/msg/ietf/DipA84LDtF4e0SLjcyhJbOFzuts/)
+* The IESG feels that deprecating a service requires community consultion and will err on the side of asking rather than acting unilaterally [[14]](https://mailarchive.ietf.org/arch/msg/ietf/DipA84LDtF4e0SLjcyhJbOFzuts/)
 [[15]](https://mailarchive.ietf.org/arch/msg/ietf/EPcz9o1qljtnpyoeh_g5ouZ2Z3s/)
 
 ### FTP provides a unique interface (Use Cases)
