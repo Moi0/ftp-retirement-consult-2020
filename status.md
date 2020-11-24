@@ -7,7 +7,7 @@ The following is a summary of the feedback in the [Call for Community Feedback: 
 
 This summary aggregates common questions and concerns, and associated responses with references.  It is not a verbatim transcript of the discussions.  It does not synthesize discussions not directly related to the question of retiring the FTP service.
 
-As this thread consisted of many messages and interleaved ideas, if your position has been misrepresented, please send corrections to the thread on ietf@ietf.org or privately to Roman Danyliw (IESG tool representative).
+As this thread consisted of many messages and interleaved ideas, if your position has been missed or misrepresented, please send corrections to the thread on ietf@ietf.org or privately to Roman Danyliw (IESG tool representative).
 
 ## Explicitly Stated Positions
 The following are pointers to explicitly stated positions (and rationales) on the retirement plan.
