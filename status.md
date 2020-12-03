@@ -1,7 +1,7 @@
 # Working Summary of Community Discussion on Retiring FTP
 (last updated per [this message](https://mailarchive.ietf.org/arch/msg/ietf/M4rbY5baRMD6jUeHRIqkO4YiweA/) in the main thread; 2020-12-02 2230 GMT-5)
 
-(last updated per [this message](https://mailarchive.ietf.org/arch/msg/ietf/HB1IfSO_PkIA2nGDvNRNHAU_Peo/) in the another thread; 2020-12-02 2230 GMT-5)
+(last updated per [this message](https://mailarchive.ietf.org/arch/msg/ietf/HB1IfSO_PkIA2nGDvNRNHAU_Peo/) in a side thread; 2020-12-02 2230 GMT-5)
 
 The following is a summary of the feedback in the [Call for Community Feedback: Retiring FTP Service thread](https://mailarchive.ietf.org/arch/msg/ietf/oTleIrHnjuvtEUKjpPXCt4Q31Qw/) and [Regarding "Call for Community Feedback: Retiring IETF FTP Service"](https://mailarchive.ietf.org/arch/msg/ietf/1iNje74SUB4Pd1BY9LjtUY7sPUY/) sub-thread on the [IETF Discussion mailing list](https://www.ietf.org/mailman/listinfo/ietf).
 * [Proposal](https://www.ietf.org/media/documents/Retiring_IETF_FTP_Service.pdf)
