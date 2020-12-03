@@ -122,18 +122,20 @@ Irrespective of this proposal, FTP access to RFCs and I-Ds will continue at ftp.
 ## Transition Plan
 The following suggestions were made on facilitating the retirement:
 
-### Fix pointers to FTP in embedded in the datatracker status page [[35]](https://mailarchive.ietf.org/arch/msg/ietf/MZbB4JbiyAvMX30CvT_55hGB_74/)
+* Fix pointers to FTP in embedded in the datatracker status page [[35]](https://mailarchive.ietf.org/arch/msg/ietf/MZbB4JbiyAvMX30CvT_55hGB_74/)
+* Retire FTP by having the service only serve a README that points to the locations of the content [[19]](https://mailarchive.ietf.org/arch/msg/ietf/XFJOyi9a8KsrF4vmBAghb0Zo3mo/) [[134]](https://mailarchive.ietf.org/arch/msg/ietf/SZBuNoGOiSajpsvurZ9hQuiNINc/) [[139]](https://mailarchive.ietf.org/arch/msg/ietf/-nZbFI-D1bp-o-LYGJNA_U1k9fQ/)
+* Retire FTP by having a CNAME from ftp.ietf.org to rfc.rfc-editor.org [[209]](https://mailarchive.ietf.org/arch/msg/ietf/PN149Ua8ZMR6TYtjIny3JK_DBfw/) [[219]](https://mailarchive.ietf.org/arch/msg/ietf/P5a4ZphtbfHCXIKRSFP8dT5rVlw/)
+* Hand over operation of the FTP service to a community volunteer [[332]](https://mailarchive.ietf.org/arch/msg/ietf/M4rbY5baRMD6jUeHRIqkO4YiweA/)
+* Consider building an "FTP-rsync" gateway [[46]](https://mailarchive.ietf.org/arch/msg/ietf/2Ir9MUzPgD3hJMmfPArruDXPd0A/)
+  * Bespoke tools will add more complexity [[48]](https://mailarchive.ietf.org/arch/msg/ietf/HLdTmVhcgO2a3c-o5FkpOE6Ml0w/)
+  * Custom tools are important to the IETF [[50]](https://mailarchive.ietf.org/arch/msg/ietf/uDV_Bojxolx0zazwb3Egdavffts/)
+* Move FTP and Gopher specifications to historic status [[64]](https://mailarchive.ietf.org/arch/msg/ietf/Nydu9WAV7OOUDbXTNB6rkH8IIfM/) [[75]](https://mailarchive.ietf.org/arch/msg/ietf/6CBooP788Jeb4wyjkxNOL8d8gSQ/) [[129]](https://mailarchive.ietf.org/arch/msg/ietf/XPEx0zMSyi9BdXn79vcbM47351Q/)
+* Agree to retire now, but first announce a retirement date in the future [[1007]](https://mailarchive.ietf.org/arch/msg/ietf/cO_fHAinJcuSsLhHAbhcGXqDwKs/) [[292]](https://mailarchive.ietf.org/arch/msg/ietf/fv6zXzuXaquNV-4FgfOosKk2HUE/)
 
-### Retire FTP by having the service only serve a README that points to the locations of the content [[19]](https://mailarchive.ietf.org/arch/msg/ietf/XFJOyi9a8KsrF4vmBAghb0Zo3mo/) [[134]](https://mailarchive.ietf.org/arch/msg/ietf/SZBuNoGOiSajpsvurZ9hQuiNINc/) [[139]](https://mailarchive.ietf.org/arch/msg/ietf/-nZbFI-D1bp-o-LYGJNA_U1k9fQ/)
+## Related Treads
+The community discussion on this topic also spawned additional threads not directly germane to the specifics of this FTP retirement proposal.  
 
-### Retire FTP by having a CNAME from ftp.ietf.org to rfc.rfc-editor.org [[209]](https://mailarchive.ietf.org/arch/msg/ietf/PN149Ua8ZMR6TYtjIny3JK_DBfw/) [[219]](https://mailarchive.ietf.org/arch/msg/ietf/P5a4ZphtbfHCXIKRSFP8dT5rVlw/)
-
-### Hand over operation of the FTP service to a community volunteer [[332]](https://mailarchive.ietf.org/arch/msg/ietf/M4rbY5baRMD6jUeHRIqkO4YiweA/)
-
-### Consider building an "FTP-rsync" gateway [[46]](https://mailarchive.ietf.org/arch/msg/ietf/2Ir9MUzPgD3hJMmfPArruDXPd0A/)
-* Bespoke tools will add more complexity [[48]](https://mailarchive.ietf.org/arch/msg/ietf/HLdTmVhcgO2a3c-o5FkpOE6Ml0w/)
-* Custom tools are important to the IETF [[50]](https://mailarchive.ietf.org/arch/msg/ietf/uDV_Bojxolx0zazwb3Egdavffts/)
-
-### Move FTP and Gopher specifications to historic status [[64]](https://mailarchive.ietf.org/arch/msg/ietf/Nydu9WAV7OOUDbXTNB6rkH8IIfM/) [[75]](https://mailarchive.ietf.org/arch/msg/ietf/6CBooP788Jeb4wyjkxNOL8d8gSQ/) [[129]](https://mailarchive.ietf.org/arch/msg/ietf/XPEx0zMSyi9BdXn79vcbM47351Q/)
-
-### Agree to retire now, but first announce a retirement date in the future [[1007]](https://mailarchive.ietf.org/arch/msg/ietf/cO_fHAinJcuSsLhHAbhcGXqDwKs/) [[292]](https://mailarchive.ietf.org/arch/msg/ietf/fv6zXzuXaquNV-4FgfOosKk2HUE/)
+* [Two FTP Issues](https://mailarchive.ietf.org/arch/msg/ietf/BlFOYmkrJpSFgJawDKt2U2lm1hk/)
+* [Telnet and FTP to Historic](https://mailarchive.ietf.org/arch/msg/ietf/NNMvWGetC0icWiSw5BXVXvqpk9k/)
+* [Protocol design: the Gemini project](https://mailarchive.ietf.org/arch/msg/ietf/icBI4_k2ls39vPUPiZlVS21YPig/)
+* [Finger to Historic](https://mailarchive.ietf.org/arch/msg/ietf/s6mpb8w-_l0tM6YhbBoD7O_z_CI/)
