@@ -20,8 +20,9 @@ The following are pointers to explicitly stated positions (and rationales) on th
 
 ### No objection, contingent on:
 * Turn off support in December 2021 [[Richardson]](https://mailarchive.ietf.org/arch/msg/ietf/cO_fHAinJcuSsLhHAbhcGXqDwKs/)
-* Continued operation of ftp.rfc-editor.org [[Moore]](https://mailarchive.ietf.org/arch/msg/ietf/NIvzm6Au1jVKAA1Bxqxlq1CkoM0/) [(old position)](https://mailarchive.ietf.org/arch/msg/ietf/mKdnC6vy-E87aj3DbRAMpmsjrQA/) 
-### Support
+* Continued operation of ftp.rfc-editor.org [Moore [-new](https://mailarchive.ietf.org/arch/msg/ietf/NIvzm6Au1jVKAA1Bxqxlq1CkoM0/) [-old](https://mailarchive.ietf.org/arch/msg/ietf/mKdnC6vy-E87aj3DbRAMpmsjrQA/)]
+
+### Support:
 * Support: [[Housley]](https://mailarchive.ietf.org/arch/msg/ietf/RS85sbnQKUIixjL8LNDdnuRqpbI/) [[Eggert]](https://mailarchive.ietf.org/arch/msg/ietf/pb7PmZ67Mhlr2GencT1YAk42OwY/) [[Roach]](https://mailarchive.ietf.org/arch/msg/ietf/Sos9vi8ZQ37PLA8M1VDKqFPZuPE/) [[Migault]](https://mailarchive.ietf.org/arch/msg/ietf/JOOdTgOySn6j-SSJMQCXtnLmTDU/) [[Turner]](https://mailarchive.ietf.org/arch/msg/ietf/ALo7nFk4NyMkpfHhDhh-Pn5duzM/) [[Leymann]](https://mailarchive.ietf.org/arch/msg/ietf/sQF1SUIYZVXqiPDRE1pEHS8WQZM/) [[Livingood]](https://mailarchive.ietf.org/arch/msg/ietf/1lnlpXJDDl5ZSA4Xn9x4sQFPlvU/) [[Farrell]](https://mailarchive.ietf.org/arch/msg/ietf/DW71uz4YNqF0ZjR2MO4yqDpk4O8/) [[Dukhovni]](https://mailarchive.ietf.org/arch/msg/ietf/i_p2XO7phdMB23tMpxQ-v0-wXYM/) [[Wilton]](https://mailarchive.ietf.org/arch/msg/ietf/fw3DVHXyhaMU_mK7C2-joXA8KXY/) [[Inacio]](https://mailarchive.ietf.org/arch/msg/ietf/nLV6GVOYBVCsEYC4fHO1OWkosHw/) [[Tschofenig]](https://mailarchive.ietf.org/arch/msg/ietf/1iNje74SUB4Pd1BY9LjtUY7sPUY/) [[Jennings]](https://mailarchive.ietf.org/arch/msg/ietf/6nwIcbph4dB9Zujot6oKH_nrkNc/) [[Sarikaya]](https://mailarchive.ietf.org/arch/msg/ietf/S86jqNgHvxyetGrbNt1yuR31uHs/) [[Yee]](https://mailarchive.ietf.org/arch/msg/ietf/MBKotgyRN_RUN41m1S2HYpurJ0k/) [[Salowey]](https://mailarchive.ietf.org/arch/msg/ietf/_weURuuxwLc6tOTZ6KgWn_XVwhM/) [[Moriarty]](https://mailarchive.ietf.org/arch/msg/ietf/X0tg_lTmoPN50GS0hjDOEt-hcz8/) + 5 parties who provided feedback privately to the IESG
 
 ## Questions
