@@ -1,7 +1,8 @@
 # Working Summary of Community Discussion on Retiring FTP
-(last updated per [this message](https://mailarchive.ietf.org/arch/msg/ietf/6nwIcbph4dB9Zujot6oKH_nrkNc/) in the thread; 2020-11-24 1630 GMT-5)
+(xx)
+(last updated per [this message](https://mailarchive.ietf.org/arch/msg/ietf/HB1IfSO_PkIA2nGDvNRNHAU_Peo/) in the another thread; 2020-12-02 1000 GMT-5)
 
-The following is a summary of the feedback in the [Call for Community Feedback: Retiring FTP Service thread](https://mailarchive.ietf.org/arch/msg/ietf/oTleIrHnjuvtEUKjpPXCt4Q31Qw/) on the [IETF Discussion mailing list](https://www.ietf.org/mailman/listinfo/ietf).
+The following is a summary of the feedback in the [Call for Community Feedback: Retiring FTP Service thread](https://mailarchive.ietf.org/arch/msg/ietf/oTleIrHnjuvtEUKjpPXCt4Q31Qw/) and [Regarding "Call for Community Feedback: Retiring IETF FTP Service"](https://mailarchive.ietf.org/arch/msg/ietf/1iNje74SUB4Pd1BY9LjtUY7sPUY/) sub-thread on the [IETF Discussion mailing list](https://www.ietf.org/mailman/listinfo/ietf).
 * [Proposal](https://www.ietf.org/media/documents/Retiring_IETF_FTP_Service.pdf)
 * [FTP Usage Data](https://docs.google.com/document/d/1JAXspeaMWFl8ML3hSezFSM0VsJsHI4uyDlQ2dHip8jo/edit#)
 
@@ -15,7 +16,11 @@ The following are pointers to explicitly stated positions (and rationales) on th
 * Oppose: [[Ohta]](https://mailarchive.ietf.org/arch/msg/ietf/7Itgz5txNUZATpc5SKRwKLLc-hs/) [[Eckert]](https://mailarchive.ietf.org/arch/msg/ietf/XFJOyi9a8KsrF4vmBAghb0Zo3mo/) 
 [[Moore]](https://mailarchive.ietf.org/arch/msg/ietf/mKdnC6vy-E87aj3DbRAMpmsjrQA/) [[Mauch]](https://mailarchive.ietf.org/arch/msg/ietf/Nydu9WAV7OOUDbXTNB6rkH8IIfM/) [[Ned]](https://mailarchive.ietf.org/arch/msg/ietf/RXzbxmpS0kTlbv0iDZNt9vvMMbs/) [[Kulawiec]](https://mailarchive.ietf.org/arch/msg/ietf/j0vrAvb_baoo11tdET5romkRi8c/) [[Klensin]](https://mailarchive.ietf.org/arch/msg/ietf/k5AUm-1JXNp0wmFldIiQSGzg1Ck/)
 
-* Support: [[Housley]](https://mailarchive.ietf.org/arch/msg/ietf/RS85sbnQKUIixjL8LNDdnuRqpbI/) [[Eggert]](https://mailarchive.ietf.org/arch/msg/ietf/pb7PmZ67Mhlr2GencT1YAk42OwY/) [[Roach]](https://mailarchive.ietf.org/arch/msg/ietf/Sos9vi8ZQ37PLA8M1VDKqFPZuPE/) [[Migault]](https://mailarchive.ietf.org/arch/msg/ietf/JOOdTgOySn6j-SSJMQCXtnLmTDU/) [[Turner]](https://mailarchive.ietf.org/arch/msg/ietf/ALo7nFk4NyMkpfHhDhh-Pn5duzM/) [[Leymann]](https://mailarchive.ietf.org/arch/msg/ietf/sQF1SUIYZVXqiPDRE1pEHS8WQZM/) [[Livingood]](https://mailarchive.ietf.org/arch/msg/ietf/1lnlpXJDDl5ZSA4Xn9x4sQFPlvU/) [[Farrell]](https://mailarchive.ietf.org/arch/msg/ietf/DW71uz4YNqF0ZjR2MO4yqDpk4O8/) [[Dukhovni]](https://mailarchive.ietf.org/arch/msg/ietf/i_p2XO7phdMB23tMpxQ-v0-wXYM/) [[Wilton]](https://mailarchive.ietf.org/arch/msg/ietf/fw3DVHXyhaMU_mK7C2-joXA8KXY/) [[Inacio]](https://mailarchive.ietf.org/arch/msg/ietf/nLV6GVOYBVCsEYC4fHO1OWkosHw/) [[Tschofenig]](https://mailarchive.ietf.org/arch/msg/ietf/1iNje74SUB4Pd1BY9LjtUY7sPUY/) [[Jennings]](https://mailarchive.ietf.org/arch/msg/ietf/6nwIcbph4dB9Zujot6oKH_nrkNc/) + 4 parties who provided feedback privately to the IESG
+### Conditional Support
+* Turn off support in December 2021 [Richardson](https://mailarchive.ietf.org/arch/msg/ietf/cO_fHAinJcuSsLhHAbhcGXqDwKs/)
+
+### Support
+* Support: [[Housley]](https://mailarchive.ietf.org/arch/msg/ietf/RS85sbnQKUIixjL8LNDdnuRqpbI/) [[Eggert]](https://mailarchive.ietf.org/arch/msg/ietf/pb7PmZ67Mhlr2GencT1YAk42OwY/) [[Roach]](https://mailarchive.ietf.org/arch/msg/ietf/Sos9vi8ZQ37PLA8M1VDKqFPZuPE/) [[Migault]](https://mailarchive.ietf.org/arch/msg/ietf/JOOdTgOySn6j-SSJMQCXtnLmTDU/) [[Turner]](https://mailarchive.ietf.org/arch/msg/ietf/ALo7nFk4NyMkpfHhDhh-Pn5duzM/) [[Leymann]](https://mailarchive.ietf.org/arch/msg/ietf/sQF1SUIYZVXqiPDRE1pEHS8WQZM/) [[Livingood]](https://mailarchive.ietf.org/arch/msg/ietf/1lnlpXJDDl5ZSA4Xn9x4sQFPlvU/) [[Farrell]](https://mailarchive.ietf.org/arch/msg/ietf/DW71uz4YNqF0ZjR2MO4yqDpk4O8/) [[Dukhovni]](https://mailarchive.ietf.org/arch/msg/ietf/i_p2XO7phdMB23tMpxQ-v0-wXYM/) [[Wilton]](https://mailarchive.ietf.org/arch/msg/ietf/fw3DVHXyhaMU_mK7C2-joXA8KXY/) [[Inacio]](https://mailarchive.ietf.org/arch/msg/ietf/nLV6GVOYBVCsEYC4fHO1OWkosHw/) [[Tschofenig]](https://mailarchive.ietf.org/arch/msg/ietf/1iNje74SUB4Pd1BY9LjtUY7sPUY/) [[Jennings]](https://mailarchive.ietf.org/arch/msg/ietf/6nwIcbph4dB9Zujot6oKH_nrkNc/) [[Sarikaya]](https://mailarchive.ietf.org/arch/msg/ietf/S86jqNgHvxyetGrbNt1yuR31uHs/) + 5 parties who provided feedback privately to the IESG
 
 ## Questions
 
@@ -34,6 +39,8 @@ The following are pointers to explicitly stated positions (and rationales) on th
 ## Concerns
 
 ### Traffic volumes are not a good indicator of the value of a service [[29]](https://mailarchive.ietf.org/arch/msg/ietf/mKdnC6vy-E87aj3DbRAMpmsjrQA/) [[32]](https://mailarchive.ietf.org/arch/msg/ietf/kWfCMrUPmtGaRbwJWr56_aMXtIY/)
+
+### IETF should not force participants into a particular workflow around tooling [[1011]](https://mailarchive.ietf.org/arch/msg/ietf/gtYGXyqVonTyK8ZH8V2b3weHM30/)
 
 ### Cost exists to migrating existing scripts [[5]](https://mailarchive.ietf.org/arch/msg/ietf/62aSVFrAErl1ofSBhs6R5PND5mg/) [[32]](https://mailarchive.ietf.org/arch/msg/ietf/kWfCMrUPmtGaRbwJWr56_aMXtIY/)
 * Roman Danyliw and volunteers at Carnegie Mellon University have offered to help anyone with FTP script conversion [[28]](https://mailarchive.ietf.org/arch/msg/ietf/_slYpA7EmYg839kEkg_jRYcoyhc/) [[128]](https://mailarchive.ietf.org/arch/msg/ietf/bkyIrK5NAdlWxFfpnmhK83wpy0M/)
@@ -59,7 +66,6 @@ The following are pointers to explicitly stated positions (and rationales) on th
 [[68]](https://mailarchive.ietf.org/arch/msg/ietf/-jfms6u2UCMiepia0RP1R_LoBrA/) [71](https://mailarchive.ietf.org/arch/msg/ietf/iHkRg-TAPE7uQG93H6u7y8n8-bQ/)
 [[81]](https://mailarchive.ietf.org/arch/msg/ietf/dcacxBHXCecqP_OHE5-DivUoIZw/)
 
-
 #### FTP is an alternative to strong TLS v1.3 ciphersuites [[138]](https://mailarchive.ietf.org/arch/msg/ietf/mGkqwXJvRGJz9QSQWdx3VJWrj4A/)
 * All IETF web properties with content analogous to FTP (www.ietf.org, datatracker.ietf.org and tools.ietf.org) support TLS v1.0 - v1.2 [[140]](https://mailarchive.ietf.org/arch/msg/ietf/XA_pkg4blflJ7a7vNTdSMuczLlM/) [[170]](https://mailarchive.ietf.org/arch/msg/ietf/Ai6Im8jmmR7wqzfOOzfNLXBbXqc/)
 
@@ -70,8 +76,13 @@ The following are pointers to explicitly stated positions (and rationales) on th
 * The usage data does not suggest this is occuring [[25]](https://mailarchive.ietf.org/arch/msg/ietf/py_9b486x8x2io6d5dAb3FAgNng/)
 * Users can use a browser to visit https://www.ietf.org/ietf-ftp/ [[137]](https://mailarchive.ietf.org/arch/msg/ietf/7rWVjpu1h3M3mR4OT5NqdTkSrSU/)
 
-#### FTP can be mounted as a file share [[29]](https://mailarchive.ietf.org/arch/msg/ietf/mKdnC6vy-E87aj3DbRAMpmsjrQA/) [[58]](https://mailarchive.ietf.org/arch/msg/ietf/wX5dg3qfP8NQpp1mlm4LIhxbb8U/)
-* <discussion around WebDAV was occured, but that is not service provided by the IETF>
+#### FTP provides a filesystem interface -- can be mounted as a file share [[29]](https://mailarchive.ietf.org/arch/msg/ietf/mKdnC6vy-E87aj3DbRAMpmsjrQA/) [[58]](https://mailarchive.ietf.org/arch/msg/ietf/wX5dg3qfP8NQpp1mlm4LIhxbb8U/) [[1008]](https://mailarchive.ietf.org/arch/msg/ietf/ukTEvRqPF-91riLLjyJEy20T2Q8/) and native notion of files and directories [[1003]](https://mailarchive.ietf.org/arch/msg/ietf/tmaGzWq7oamdgMoRlAVZCR-Haw0/)
+* <many posts around WebDAV was occured, but that is not service provided by the IETF>
+* Use a FUSE-file system wrapper for rsync [[1016]](https://mailarchive.ietf.org/arch/msg/ietf/QfLnuQ6XdV_UWzMwU09PfYOurpk/)
+* Use a FUSE-file system wrapper around web-server directory listings [[1019]](https://mailarchive.ietf.org/arch/msg/ietf/OA9KezhNiGKvRuCfnYrfLa3RnUQ/)
+
+### FTP is widely supported in browsers [[1001]](https://mailarchive.ietf.org/arch/msg/ietf/zG4fG9TEO0dkrmRjpiMxeYp11NA/)
+* Chrome will disable support in 1Q2021 [[1004]](https://mailarchive.ietf.org/arch/msg/ietf/r6W5qfnyjEEsayUl4lvv55D5baU/).  So will Firefox [[1015]](https://mailarchive.ietf.org/arch/msg/ietf/Ugbbc-aNaH4O1-nPkqvT-d7YHgc/)
 
 #### FTP is better for scripting and HTTP+HTML is complex (FTP is stable) [[29]](https://mailarchive.ietf.org/arch/msg/ietf/mKdnC6vy-E87aj3DbRAMpmsjrQA/)
 * Raw versions of IETF content (without HTML encoding) is availible over HTTPS transport [[54]](https://mailarchive.ietf.org/arch/msg/ietf/oH68nGeB3GH-MnnRlaQvea6rhcg/)
@@ -100,3 +111,4 @@ The following suggestions were made on facilitating the retirement:
 
 ### Move FTP and Gopher specifications to historic status [[64]](https://mailarchive.ietf.org/arch/msg/ietf/Nydu9WAV7OOUDbXTNB6rkH8IIfM/) [[75]](https://mailarchive.ietf.org/arch/msg/ietf/6CBooP788Jeb4wyjkxNOL8d8gSQ/) [[129]](https://mailarchive.ietf.org/arch/msg/ietf/XPEx0zMSyi9BdXn79vcbM47351Q/)
 
+### Agree to retire now, but first announce a retirement date in the future [[1007]](https://mailarchive.ietf.org/arch/msg/ietf/cO_fHAinJcuSsLhHAbhcGXqDwKs/)
