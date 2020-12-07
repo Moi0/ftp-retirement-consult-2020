@@ -1,5 +1,5 @@
 # Working Summary of Community Discussion on Retiring FTP
-(last updated per [this message](https://mailarchive.ietf.org/arch/msg/ietf/ClczpgKVR4w-PTWoz0LZSkv3fK8/) in the main thread; 2020-12-03 1315 GMT-5)
+(last updated per [this message](https://mailarchive.ietf.org/arch/msg/ietf/7MHjdanbl9QyC8pM-COBLEa9UlM/) in the main thread; 2020-12-06 1900 GMT-5)
 
 (last updated per [this message](https://mailarchive.ietf.org/arch/msg/ietf/HB1IfSO_PkIA2nGDvNRNHAU_Peo/) in a side thread; 2020-12-03 1315 GMT-5)
 
@@ -118,6 +118,8 @@ Irrespective of this proposal, FTP access to RFCs and I-Ds will continue at ftp.
 * IETF work has built upon rsync [[236]](https://mailarchive.ietf.org/arch/msg/ietf/RVWcwDACDER-0f8Gu0JlDxPK4y0/)
 
 #### In other applications, there have been security issues [[265]](https://mailarchive.ietf.org/arch/msg/ietf/zwDCOjLM7TnKa86UDROTntYD5i4/)
+
+### Objection to the rigor of traffic statistics [[342]](https://mailarchive.ietf.org/arch/msg/ietf/7MHjdanbl9QyC8pM-COBLEa9UlM/)
 
 
 ## Transition Plan
