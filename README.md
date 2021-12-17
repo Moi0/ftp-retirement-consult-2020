@@ -1,3 +1,5 @@
+(March 2021) [Revised FTP Retirement Plan](https://www.ietf.org/media/documents/Revised-Retiring-IETF-FTP-Service-2021-03.pdf) based on community Feedback
+*** 
 See: [Thread](https://mailarchive.ietf.org/arch/msg/ietf/oTleIrHnjuvtEUKjpPXCt4Q31Qw/) on ietf@ietf.org mailing list
 
 ***
