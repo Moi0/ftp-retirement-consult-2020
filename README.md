@@ -1,4 +1,47 @@
 (March 2021) [Revised FTP Retirement Plan](https://www.ietf.org/media/documents/Revised-Retiring-IETF-FTP-Service-2021-03.pdf) based on community Feedback
+***
+See: https://mailarchive.ietf.org/arch/msg/ietf/vi-8bFqlgBFjB2jJ1SIAGHiNRdg/
+
+To:ietf@ietf.org
+
+...
+
+Subject: Retirement of the IETF FTP service
+
+Hello!
+
+Thank you for all of the feedback on the proposal to retire the IETF FTP service.  The robust mailing list discussion not only illuminated the community's perspective on the FTP services but also the workflows used to participate in the IETF.  A summary of the thread can be found at [1].
+
+After reviewing all of the public and private feedback, the IESG endorses the retirement of the IETF FTP service.  The IESG deliberation centered on:
+
+** The cost of maintaining the FTP service as borne by the Tools Team;
+
+** The size of the population using the FTP service;
+
+** The loss of access to IETF assets if the FTP service was not present; and
+
+** Unique workflows or populations that FTP enabled.
+
+The IESG acknowledges that community support for this decision is not unanimous.  Based on specific feedback, a few clarifications and changes have been made to the approach to retiring the service.  See the revised plan [2] (as diffs from original [3]).   Additionally, the IESG has confirmed that the offer from volunteers at Carnegie Mellon University to help with any script conversion is still available [4].
+
+Again, thank you for the feedback.  In the coming months, the IESG plans to work with the Tools Team and community members to complete the "Actions" and "Next Steps" sections of [3], including announcing a 4-month migration period to allow for the porting of scripts and associated workflows, prior to the retirement of the service.
+
+Regards,
+
+Roman
+
+(as the IESG tools representative)
+
+==
+
+[1] https://github.com/ietf/ftp-retirement-consult-2020/blob/main/status.md
+
+[2] https://www.ietf.org/media/documents/Revised-Retiring-IETF-FTP-Service-2021-03.pdf
+
+[3] https://www.ietf.org/media/documents/Retiring-IETF-FTP-Service-diffs.pdf
+
+[4] https://mailarchive.ietf.org/arch/msg/ietf/_slYpA7EmYg839kEkg_jRYcoyhc/
+
 *** 
 See: [Thread](https://mailarchive.ietf.org/arch/msg/ietf/oTleIrHnjuvtEUKjpPXCt4Q31Qw/) on ietf@ietf.org mailing list
 
